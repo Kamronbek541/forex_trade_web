@@ -69,7 +69,7 @@ export default function Footer() {
               />
             </a>
             <a
-              href="https://t.me/"
+              href="https://t.me/+VW_dIVh-Qf9jNDNk"
               target="_blank"
               rel="noopener noreferrer"
               className="footer-social"
@@ -129,7 +129,7 @@ export default function Footer() {
               technology and experience
             </p>
             <a
-              href="https://t.me/"
+              href="https://t.me/+VW_dIVh-Qf9jNDNk"
               target="_blank"
               rel="noopener noreferrer"
               className="footer-cta-btn"

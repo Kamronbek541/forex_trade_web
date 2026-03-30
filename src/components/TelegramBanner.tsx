@@ -35,7 +35,7 @@ export default function TelegramBanner() {
               Stay informed with trading announcements
             </span>
             <a
-              href="https://t.me/"
+              href="https://t.me/+VW_dIVh-Qf9jNDNk"
               target="_blank"
               rel="noopener noreferrer"
               className="sec7-join"

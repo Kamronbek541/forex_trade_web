@@ -156,7 +156,7 @@ export default function Portfolio() {
         {/* START NOW button */}
         <div style={{ textAlign: "center", marginTop: "48px" }}>
           <a
-            href="https://t.me/"
+            href="https://t.me/+VW_dIVh-Qf9jNDNk"
             target="_blank"
             rel="noopener noreferrer"
             className="portfolio-btn"

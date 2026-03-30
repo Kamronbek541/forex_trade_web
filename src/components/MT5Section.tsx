@@ -28,7 +28,7 @@ export default function MT5Section() {
             </p>
             <div style={{ marginTop: "28px" }}>
               <a
-                href="https://t.me/"
+                href="https://t.me/+VW_dIVh-Qf9jNDNk"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="sec5-btn"

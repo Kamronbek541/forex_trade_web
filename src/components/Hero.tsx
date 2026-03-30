@@ -47,7 +47,7 @@ export default function Hero() {
 
           <div style={{ marginTop: "32px" }}>
             <a
-              href="https://t.me/"
+              href="https://t.me/+VW_dIVh-Qf9jNDNk"
               target="_blank"
               rel="noopener noreferrer"
               className="hero-btn"

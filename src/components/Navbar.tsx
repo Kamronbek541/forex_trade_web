@@ -151,7 +151,7 @@ export default function Navbar() {
             {/* Desktop CTA */}
             <div className="desktop-only" style={{ flexShrink: 0 }}>
               <a
-                href="https://t.me/"
+                href="https://t.me/+VW_dIVh-Qf9jNDNk"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="nav-cta"
@@ -207,7 +207,7 @@ export default function Navbar() {
             );
           })}
           <a
-            href="https://t.me/"
+            href="https://t.me/+VW_dIVh-Qf9jNDNk"
             target="_blank"
             rel="noopener noreferrer"
             className="mobile-cta-btn"
